@@ -1,0 +1,15 @@
+C:\Users\ibeho\Summer Semester 2026\.net\cse325-u01-dotnet-applications\WriteFirstCSharp\bin\Debug\net10.0\WriteFirstCSharp.exe
+C:\Users\ibeho\Summer Semester 2026\.net\cse325-u01-dotnet-applications\WriteFirstCSharp\bin\Debug\net10.0\WriteFirstCSharp.deps.json
+C:\Users\ibeho\Summer Semester 2026\.net\cse325-u01-dotnet-applications\WriteFirstCSharp\bin\Debug\net10.0\WriteFirstCSharp.runtimeconfig.json
+C:\Users\ibeho\Summer Semester 2026\.net\cse325-u01-dotnet-applications\WriteFirstCSharp\bin\Debug\net10.0\WriteFirstCSharp.dll
+C:\Users\ibeho\Summer Semester 2026\.net\cse325-u01-dotnet-applications\WriteFirstCSharp\bin\Debug\net10.0\WriteFirstCSharp.pdb
+C:\Users\ibeho\Summer Semester 2026\.net\cse325-u01-dotnet-applications\WriteFirstCSharp\obj\Debug\net10.0\WriteFirstCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ibeho\Summer Semester 2026\.net\cse325-u01-dotnet-applications\WriteFirstCSharp\obj\Debug\net10.0\WriteFirstCSharp.AssemblyInfoInputs.cache
+C:\Users\ibeho\Summer Semester 2026\.net\cse325-u01-dotnet-applications\WriteFirstCSharp\obj\Debug\net10.0\WriteFirstCSharp.AssemblyInfo.cs
+C:\Users\ibeho\Summer Semester 2026\.net\cse325-u01-dotnet-applications\WriteFirstCSharp\obj\Debug\net10.0\WriteFirstCSharp.csproj.CoreCompileInputs.cache
+C:\Users\ibeho\Summer Semester 2026\.net\cse325-u01-dotnet-applications\WriteFirstCSharp\obj\Debug\net10.0\WriteFirstCSharp.sourcelink.json
+C:\Users\ibeho\Summer Semester 2026\.net\cse325-u01-dotnet-applications\WriteFirstCSharp\obj\Debug\net10.0\WriteFirstCSharp.dll
+C:\Users\ibeho\Summer Semester 2026\.net\cse325-u01-dotnet-applications\WriteFirstCSharp\obj\Debug\net10.0\refint\WriteFirstCSharp.dll
+C:\Users\ibeho\Summer Semester 2026\.net\cse325-u01-dotnet-applications\WriteFirstCSharp\obj\Debug\net10.0\WriteFirstCSharp.pdb
+C:\Users\ibeho\Summer Semester 2026\.net\cse325-u01-dotnet-applications\WriteFirstCSharp\obj\Debug\net10.0\WriteFirstCSharp.genruntimeconfig.cache
+C:\Users\ibeho\Summer Semester 2026\.net\cse325-u01-dotnet-applications\WriteFirstCSharp\obj\Debug\net10.0\ref\WriteFirstCSharp.dll
