@@ -1,4 +1,15 @@
-﻿using System.Text;
+U01 Assignment: Build .NET Applications with C#
+
+PART 1 - Web API Output
+
+[{"id":1,"name":"Cheese","isGlutenFree":false},
+{"id":2,"name":"Pepperoni","isGlutenFree":false},
+{"id":3,"name":"Veggie","isGlutenFree":true},
+{"id":4,"name":"Hawaiian","isGlutenFree":false}]
+
+PART 2 - Sales Summary Function
+
+using System.Text;
 
 Dictionary<string, decimal> salesData = new Dictionary<string, decimal>()
 {

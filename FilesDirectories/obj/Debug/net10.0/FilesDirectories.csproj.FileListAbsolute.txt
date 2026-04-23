@@ -1,0 +1,15 @@
+C:\Users\ibeho\Summer Semester 2026\.net\cse325-u01-dotnet-applications\FilesDirectories\bin\Debug\net10.0\FilesDirectories.exe
+C:\Users\ibeho\Summer Semester 2026\.net\cse325-u01-dotnet-applications\FilesDirectories\bin\Debug\net10.0\FilesDirectories.deps.json
+C:\Users\ibeho\Summer Semester 2026\.net\cse325-u01-dotnet-applications\FilesDirectories\bin\Debug\net10.0\FilesDirectories.runtimeconfig.json
+C:\Users\ibeho\Summer Semester 2026\.net\cse325-u01-dotnet-applications\FilesDirectories\bin\Debug\net10.0\FilesDirectories.dll
+C:\Users\ibeho\Summer Semester 2026\.net\cse325-u01-dotnet-applications\FilesDirectories\bin\Debug\net10.0\FilesDirectories.pdb
+C:\Users\ibeho\Summer Semester 2026\.net\cse325-u01-dotnet-applications\FilesDirectories\obj\Debug\net10.0\FilesDirectories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ibeho\Summer Semester 2026\.net\cse325-u01-dotnet-applications\FilesDirectories\obj\Debug\net10.0\FilesDirectories.AssemblyInfoInputs.cache
+C:\Users\ibeho\Summer Semester 2026\.net\cse325-u01-dotnet-applications\FilesDirectories\obj\Debug\net10.0\FilesDirectories.AssemblyInfo.cs
+C:\Users\ibeho\Summer Semester 2026\.net\cse325-u01-dotnet-applications\FilesDirectories\obj\Debug\net10.0\FilesDirectories.csproj.CoreCompileInputs.cache
+C:\Users\ibeho\Summer Semester 2026\.net\cse325-u01-dotnet-applications\FilesDirectories\obj\Debug\net10.0\FilesDirectories.sourcelink.json
+C:\Users\ibeho\Summer Semester 2026\.net\cse325-u01-dotnet-applications\FilesDirectories\obj\Debug\net10.0\FilesDirectories.dll
+C:\Users\ibeho\Summer Semester 2026\.net\cse325-u01-dotnet-applications\FilesDirectories\obj\Debug\net10.0\refint\FilesDirectories.dll
+C:\Users\ibeho\Summer Semester 2026\.net\cse325-u01-dotnet-applications\FilesDirectories\obj\Debug\net10.0\FilesDirectories.pdb
+C:\Users\ibeho\Summer Semester 2026\.net\cse325-u01-dotnet-applications\FilesDirectories\obj\Debug\net10.0\FilesDirectories.genruntimeconfig.cache
+C:\Users\ibeho\Summer Semester 2026\.net\cse325-u01-dotnet-applications\FilesDirectories\obj\Debug\net10.0\ref\FilesDirectories.dll

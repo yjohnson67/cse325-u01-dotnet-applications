@@ -1,0 +1,8 @@
+Sales Summary
+----------------------------
+Total Sales: $3,663.50
+
+Details:
+january.txt: $1,250.75
+february.txt: $980.50
+march.txt: $1,432.25
